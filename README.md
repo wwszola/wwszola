@@ -1,4 +1,13 @@
-### Hi there 👋
+## Cześć! Hi there! 👋
+I'm Wojciech, 👨‍💻 beginner software developer and 🖼️ digital art enthusiast currently living in Cracow, Poland.
+
+### Technologies and tools I use:
+<img align="left" alt="Visual Studio Code" height="26px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" style="padding-right:10px;"/>
+<img align="left" alt="Python" height="26px" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" style="padding-right:10px;"/>
+<img align="left" alt="Django" height="26px" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" style="padding-right:10px;"/>
+
+<img align="left" alt="Pre commit" height="26px" src="https://img.shields.io/badge/pre--commit-brightgreen?logo=pre-commit&logoColor=white" style="padding-right:10px;"/>
+<img align="left" alt="Code style: black" height="26px" src="https://img.shields.io/badge/code%20style-black-000000.svg" style="padding-right:10px;"/>
 
 <!--
 **wwszola/wwszola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
