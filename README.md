@@ -1,13 +1,14 @@
 ## Cześć! Hi there! 👋
 I'm Wojciech, 👨‍💻 beginner software developer and 🖼️ digital art enthusiast currently living in Cracow, Poland.
-
-### Technologies and tools I use:
-<img align="left" alt="Visual Studio Code" height="26px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" style="padding-right:10px;"/>
-<img align="left" alt="Python" height="26px" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" style="padding-right:10px;"/>
-<img align="left" alt="Django" height="26px" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" style="padding-right:10px;"/>
-
-<img align="left" alt="Pre commit" height="26px" src="https://img.shields.io/badge/pre--commit-brightgreen?logo=pre-commit&logoColor=white" style="padding-right:10px;"/>
-<img align="left" alt="Code style: black" height="26px" src="https://img.shields.io/badge/code%20style-black-000000.svg" style="padding-right:10px;"/>
+#### Technologies and tools I use:
+[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)](https://github.com/microsoft/vscode)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)](https://github.com/python/cpython)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://github.com/django/django)
+[![PyGame](https://img.shields.io/badge/PyGame-C2FC20?style=flat)](https://github.com/pygame/pygame)
+[![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=flat&logo=numpy)](https://github.com/numpy/numpy)
+[![Pre-commit](https://img.shields.io/badge/pre--commit-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 <!--
 **wwszola/wwszola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
